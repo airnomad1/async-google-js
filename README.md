@@ -1,2 +1,2 @@
 # async-google.-js
-Load google js libraries asncronously
+Load google js libraries asynchronously.
